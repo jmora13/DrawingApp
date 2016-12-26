@@ -1,8 +1,6 @@
 //Jose Mora
-//CIS 255
 //11-15-2015
 //GUI color tracker 
-//Project 6
 
 import java.awt.*;
 import javax.swing.*;
